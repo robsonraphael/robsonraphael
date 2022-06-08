@@ -25,6 +25,16 @@ Follow my socials!
 
  ##
  
+ <h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="reactjs.org"><img width="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a><a href=""><img width="64" style="margin-left: 10px"src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/></a><a href=""><img width="64" style="margin-left: 10px"src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"/></a><a href=""><img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/></a><a href=""><img style="margin-left: 2px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/></a><a href=""><img width="90" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/></a><a href=""><img style="margin-right: 5px" width="100" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/></a><a href=""><img width="60" style="margin-right: 5px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/></a><a href=""><img width="60" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" style="margin-left: 10px"/></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonraphael&show_icons=true&locale=en&layout=compact" alt="robsonraphael"/></p>
+
+<p>&nbsp;<img align="center" style="margin-top: 10px"src="https://github-readme-stats.vercel.app/api?username=robsonraphael&show_icons=true&locale=en" alt="robsonraphael" /></p>
+ 
+ ##
 <p align="center">
  <i> “Knowing is not enough; we must apply.  Willing is not enough; we must do.” <i>
 </p>
