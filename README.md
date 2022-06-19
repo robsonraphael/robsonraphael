@@ -5,7 +5,7 @@
  
 ✴ I'm a Front-end Developer;
 
-✴ Currently developing mobile apps;
+✴ Currently studying backend;
 
 ✴ Since I was a child I destroy computers;
 
