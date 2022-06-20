@@ -7,12 +7,6 @@
 
 ✴ Currently studying backend;
 
-✴ Since I was a child I destroy computers;
-
-✴ I love Harry Potter ⚡;
-
-✴ I have one dog 🐕 *(Billy)*;
-
 ##
 ### How to find me
 
