@@ -3,7 +3,7 @@
 ## <div align="center">Hello my name is Robson Raphael 👨🏾‍💻, currently doing systems development college.</div>
 
 - ☁️ Studying web and cloud development;
-- 🌱 I like to keep hammering problems in my head. (tin? I know);
+- 🌱 I like to keep hammering problems in my head. (weird? I know);
 - ⚽ I love to play sport (football, basketball, volleyball, swimming);
 - 🕹️ I like to play online games;
 - 🐶 I have a dalmatian named Billy;
