@@ -1,38 +1,65 @@
-### Hi 👋, I'm [Robson](github.com/robsonraphael)
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" >
 
-##
-### A little about myself: 
- 
-✴ I'm a Front-end Developer;
+## <div align="center">Hello my name is Robson Raphael 👨🏾‍💻, currently doing systems development college.</div>
 
-✴ Currently studying backend;
+- ☁️ Studying web and cloud development;
+- 🌱 I like to keep hammering problems in my head. (tin? I know);
+- ⚽ I love to play sport (football, basketball, volleyball, swimming);
+- 🕹️ I like to play online games;
+- 🐶 I have a dalmatian named Billy;
+- 🎬 My Portfolio
 
-##
-### How to find me
+### My Skills
 
-You can reach me at my [e-mail](mailto:robsonraphaelwork@gmail.com)!
-Follow my socials!
+<div align="center">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
+    <img height="70px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
 
-[![Linkedin: robsonraphael](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robson-raphael-42a628224)](https://www.linkedin.com/in/robson-raphael-42a628224/)
-![GitHub followers](https://img.shields.io/github/followers/robsonraphael?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.google.com)](https://www.google.com)
+### Where to find me
 
- ##
- 
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="reactjs.org"><img width="70" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a><a href=""><img width="64" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/></a><a href=""><img width="64" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/></a><a href=""><img  src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/></a><a href=""><img width="90" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"/></a><a href=""><img width="100" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/></a><a href=""><img width="60" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/></a><a href=""><img width="60" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg"/></a><a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" /></a>
-</p>
+<div align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
+     <a href="#">
+        <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+     <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robsonraphael&show_icons=true&locale=en&layout=compact" alt="robsonraphael"/></p>
-<p>
-<p>&nbsp;<img align="center" style="margin-top: 10px"src="https://github-readme-stats.vercel.app/api?username=robsonraphael&show_icons=true&locale=en" alt="robsonraphael" /></p>
- 
- ##
-<p align="center">
- <i> “Knowing is not enough; we must apply.  Willing is not enough; we must do.” <i>
-</p>
-  
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=robsonraphael" alt="visitor badge"/>
-</p>
+### Github Stats
+<div style="display: flex; align-items: center; gap: 2px">
+    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonraphael&show_icons=true&theme=tokyonight">
+    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/?username=robsonraphael&show_icons=true&theme=tokyonight">
+</div>
+
+----
+<div align="center">Run after your dream, because no one will run for you.</div>
