@@ -41,7 +41,7 @@
     <a href="#">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
     </a>
-    <a href="#">
+    <a href="robsonraphaelwork@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="#">
@@ -50,7 +50,7 @@
      <a href="#">
         <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
-     <a href="#">
+     <a href="https://www.linkedin.com/in/robson-raphael-42a628224/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
