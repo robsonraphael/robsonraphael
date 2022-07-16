@@ -1,13 +1,16 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" >
 
-## <div align="center">Hello my name is Robson Raphael 👨🏾‍💻, currently doing systems development college.</div>
+## <div align="center">Iae 👋🏾, Meu nome é Robson Raphael 👨🏾‍💻 sou desenvolvedor Front-end, me aprofundando um pouco em back-end. Sou só mais um amante de tecnologia que gosta de entender como as coisas funcionam (e que é chamamado pra arrumar a impressora, internet ou PC 🤦🏾‍♂) </div>
 
-- ☁️ Studying web and cloud development;
-- 🌱 I like to keep hammering problems in my head. (weird? I know);
-- ⚽ I love to play sport (football, basketball, volleyball, swimming);
-- 🕹️ I like to play online games;
-- 🐶 I have a dalmatian named Billy;
-- 🎬 My Portfolio
+- ☁️ Estudando Web, Cloud e UI / UX;
+- 🌱 Gosto de Resolver Problemas;
+- ⚽ Pelada de sábado;
+- 🕹️ Um joguinho competitivo;
+- 🐶 Tenho um Dalmata (Billy);
+- 🐧 Linux User;
+- 📐 UX Desing;
+- 🦜 Comunicativo (um pouco demais);
+- 🌎 Sonho em conhecer o Mundo (Ásia);
 
 ### My Skills
 
