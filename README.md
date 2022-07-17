@@ -8,7 +8,6 @@
 - 🕹️ Um joguinho competitivo;
 - 🐶 Tenho um Dalmata (Billy);
 - 🐧 Linux User;
-- 📐 UX Desing;
 - 🦜 Comunicativo (um pouco demais);
 - 🌎 Sonho em conhecer o Mundo (Ásia);
 
