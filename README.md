@@ -1,15 +1,13 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" >
 
-## <div align="center">Iae 👋🏾, Meu nome é Robson Raphael 👨🏾‍💻 sou desenvolvedor Front-end, me aprofundando um pouco em back-end. Sou só mais um amante de tecnologia que gosta de entender como as coisas funcionam (aqueles que chamam pra arrumar a impressora, internet ou PC 🤦🏾‍♂) </div>
+## <div align="center">Iae 👋🏾, Meu nome é Robson Raphael 👨🏾‍💻 sou desenvolvedor front-end, me aprofundando um pouco em back-end. Sou só mais um amante de tecnologia que adora entender como as coisas funcionam e aqueles que chamam pra arrumar a impressora, internet ou PC 🤦🏾‍♂</div>
 
 - ☁️ Estudando Web, Cloud e UI / UX;
 - 🌱 Gosto de Resolver Problemas;
-- ⚽ Pelada de sábado;
-- 🕹️ Um joguinho competitivo;
+- 🕹️ Joguinho;
 - 🐶 Tenho um Dalmata (Billy);
 - 🐧 Linux User;
 - 🦜 Comunicativo (um pouco demais);
-- 🌎 Sonho em conhecer o Mundo (Ásia);
 
 ### My Skills
 
@@ -49,7 +47,7 @@
     <a href="https://robsonraphael-portifolio.herokuapp.com/">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
-     <a href="#">
+    <a href="#">
         <img src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
      <a href="https://www.linkedin.com/in/robson-raphael-42a628224/">
