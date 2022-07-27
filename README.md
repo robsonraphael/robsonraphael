@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" >
 
-## <div align="center">Iae 👋🏾, Meu nome é Robson Raphael 👨🏾‍💻 sou desenvolvedor front-end, me aprofundando um pouco em back-end. Sou só mais um amante de tecnologia que adora entender como as coisas funcionam e aqueles que chamam pra arrumar a impressora, internet ou PC 🤦🏾‍♂</div>
+## <div align="center">Iae 👋🏾, Meu nome é Robson Raphael 👨🏾‍💻 sou desenvolvedor FullStack. Sou só mais um amante de tecnologia que adora entender como as coisas funcionam</div>
 
-- ☁️ Estudando Web, Cloud e UI / UX;
+- ☁️ Estudando Web e UI/UX;
 - 🌱 Gosto de Resolver Problemas;
-- 🕹️ Joguinho;
+- 🕹️ Competitivo;
 - 🐶 Tenho um Dalmata (Billy);
 - 🐧 Linux User;
 - 🦜 Comunicativo (um pouco demais);
