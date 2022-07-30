@@ -56,7 +56,7 @@
 ## Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonraphael&show_icons=true&theme=tokyonight" height="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonraphael&show_icons=true&theme=tokyonight" height="320">
 </div>
 
 <p/>
