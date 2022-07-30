@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
-<div align="center"><h2>Iae 👋🏾, sou Robson Raphael 👨🏾‍💻 Software Developer;</h2></div>
+<div align="center"><h1>Iae 👋🏾, sou Robson Raphael 👨🏾‍💻 Software Developer;</h1></div>
 
 - ☁️ Web e UI/UX;
 - 🌱 Gosto de Resolver Problemas;
 - 🐶 Tenho um Dalmata (Billy);
 - 🐧 Linux User;
 
-### Minhas Habilidades 🥸
+## Minhas Habilidades 🥸
 
 <div align="center">
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -33,7 +33,7 @@
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
-### Onde me encontrar 🤔
+## Onde me encontrar 🤔
 
 <div align="center">
     <a href="#">
@@ -53,19 +53,21 @@
     </a>
 </div>
 
-### Github Stats
+## Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonraphael&show_icons=true&theme=tokyonight" height="300">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonraphael&show_icons=true&theme=tokyonight" height="400">
 </div>
+
+<p/>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=robsonraphael&show_icons=true&theme=tokyonight" height="200">
 </div>
 
 <div align="center">
-        <img src="https://img.shields.io/github/followers/robsonraphael?style=social" height="25px">
-        <img src="https://img.shields.io/github/stars/robsonraphael?style=social" height="25px">
+        <img src="https://img.shields.io/github/followers/robsonraphael?style=social" height="22px">
+        <img src="https://img.shields.io/github/stars/robsonraphael?style=social" height="22px">
 <div>
 
 ---
