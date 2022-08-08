@@ -7,7 +7,7 @@
 - 🐶 Tenho um Dalmata (Billy);
 - 🐧 Linux User;
 
-## Minhas Habilidades 🥸
+## Linguagens e Ferramentas 🥸
 
 <div align="center">
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
