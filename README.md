@@ -1,6 +1,6 @@
 <img src="image.png">
 
-<div align="center"><h1>Robson Raphael <br/> Backend Developer</h1></div>
+<div align="center"><h1>Robson Raphael Backend Developer</h1></div>
 
 - 🟥 Atualmente aprendendo Ruby;
 - 🌱 Gosto de Resolver Problemas;
