@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
-<div align="center"><h1>Iae 👋🏾, sou Robson Raphael 👨🏾‍💻 Software Developer;</h1></div>
+<div align="center"><h1>Robson Raphael</h1></div>
+<div align="center"><h1>I'm Backend Developer</h1></div>
 
-- ☁️ Web e UI/UX;
+- 🟥 Atualmente aprendendo Ruby;
 - 🌱 Gosto de Resolver Problemas;
 - 🐶 Tenho um Dalmata (Billy);
-- 🐧 Linux User;
 
 ## Linguagens e Ferramentas 🥸
 
