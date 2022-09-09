@@ -4,8 +4,7 @@
 
 
 ## Linguagens e Ferramentas: 
-<br>
-</br>
+
 ## Onde me encontrar 🤔
 
 <div align="center">
