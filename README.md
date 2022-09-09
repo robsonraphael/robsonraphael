@@ -1,12 +1,9 @@
-<div align="center"><h1>Robson Raphael;</h1></div>
+## I'm Robson <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-- 🟥 Atualmente aprendendo Ruby;
-- 🌱 Gosto de Resolver Problemas;
-- 🐶 Tenho um Dalmata (Billy);
+🍎 Atualmente aprendendo Ruby
 
-## Linguagens e Ferramentas 🥸
 
-<div align="center">
+## Linguagens e Ferramentas: <br>
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -28,9 +25,8 @@
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
     <img height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-</div>
 
-## Onde me encontrar 🤔
+## Onde me encontrar 🤔 <br>
 
 <div align="center">
     <a href="#">
