@@ -37,7 +37,3 @@
         <img src="https://img.shields.io/github/followers/robsonraphael?style=social" height="22px">
         <img src="https://img.shields.io/github/stars/robsonraphael?style=social" height="22px">
 <div>
-
----
-
-<div align="center" style="font-size: 15px;"><i>Run after your dream, because no one will run for you 🫵🏾.</i></div>
