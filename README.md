@@ -1,5 +1,3 @@
-<img src="image.png">
-
 <div align="center"><h1>Robson Raphael;</h1></div>
 
 - 🟥 Atualmente aprendendo Ruby;
