@@ -3,7 +3,7 @@
 🍎 Atualmente aprendendo Ruby
 
 
-## Linguagens e Ferramentas: 
+## Linguagens e Ferramentas 🛠
 
 ## Onde me encontrar 🤔
 
@@ -25,17 +25,13 @@
     </a>
 </div>
 
-## Github Stats
+## Score 💯
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonraphael&show_icons=true&theme=tokyonight" height="320">
 </div>
 
 <p/>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=robsonraphael&show_icons=true&theme=tokyonight" height="200">
-</div>
 
 <div align="center">
         <img src="https://img.shields.io/github/followers/robsonraphael?style=social" height="22px">
