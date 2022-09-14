@@ -1,7 +1,7 @@
 ## I'm Robson <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-♾️ Cursioso, Aventureiro e com vontade de aprender !
-💻 Programando desde 2019
+♾️ Cursioso, Aventureiro e com vontade de aprender ! &nbsp;
+💻 Programando desde 2019 &nbsp;
 
 ## Linguagens e Ferramentas 🛠
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
