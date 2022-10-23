@@ -1,7 +1,5 @@
 ## I'm Robson <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
-
-♾️ Cursioso, Aventureiro e com vontade de aprender ! <br/>
-📚 Atualmente aprendendo sobre banco de dados e back-end
+Ai caliquinha
 
 ## Linguagens e Ferramentas 🛠
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
